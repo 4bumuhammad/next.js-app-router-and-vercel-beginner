@@ -19,7 +19,7 @@
 
 ### &#x1F530; Begin:<br />
 
-<p>
+<pre>
    ❯ node --version
       v18.17.0
 
@@ -28,8 +28,8 @@
 
    ❯ npx --version
       9.6.7
-</p>
-<p>
+</pre>
+<pre>
    ❯ npx create-next-app@latest
       Need to install the following packages:
       create-next-app@14.1.4
@@ -75,7 +75,7 @@
       Initialized a git repository.
 
       Success! Created latihan-1 at /Users/.../next-post/latihan-1      
-</p>
+</pre>
 
 <pre>
    ❯ du -sch latihan-1
