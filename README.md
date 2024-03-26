@@ -172,8 +172,8 @@ Test jalankan pertama kali.
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_009_tailwind.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
-    <p align="center">nextjs : tailwind.</p>
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_008_css_private.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : css private.</p>
 </div> 
 
 &nbsp;
