@@ -162,7 +162,7 @@ Test jalankan pertama kali.
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_006_css_global-1.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : css global.</p>
 </div> 
 
