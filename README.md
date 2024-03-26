@@ -166,5 +166,10 @@ Test jalankan pertama kali.
     <p align="center">nextjs : css global.</p>
 </div> 
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_007_css_global-2.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : css global.</p>
+</div> 
+
 
 &nbsp;
