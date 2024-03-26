@@ -141,4 +141,9 @@ Test jalankan pertama kali.
     <p align="center">nextjs : first.</p>
 </div> 
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_002_hello.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : hello.</p>
+</div> 
+
 &nbsp;
