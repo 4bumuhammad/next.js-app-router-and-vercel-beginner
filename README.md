@@ -171,5 +171,9 @@ Test jalankan pertama kali.
     <p align="center">nextjs : css global.</p>
 </div> 
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_009_tailwind.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : tailwind.</p>
+</div> 
 
 &nbsp;
