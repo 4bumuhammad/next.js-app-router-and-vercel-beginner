@@ -146,4 +146,18 @@ Test jalankan pertama kali.
     <p align="center">nextjs : hello.</p>
 </div> 
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_003_posts.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : page posts.</p>
+</div> 
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_004_a_href.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : link a href.</p>
+</div> 
+
+
+
+
+
 &nbsp;
