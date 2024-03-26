@@ -10,6 +10,8 @@
    <p>https://www.youtube.com/watch?v=WyTIjLegirE</p>
    last 24.59s
 
+<br />
+
 - YT "Mudah Untuk Deploy NextJS Project di Vercel via GIT atau CLI | Dev Insight | MauCoding"
    <p>https://www.youtube.com/watch?v=4FALuQOWqT8</p>
 
