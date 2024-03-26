@@ -204,7 +204,7 @@ Test jalankan pertama kali.
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_012_import_components-1.png" alt="ss_nextjs_latihan-1.1" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_012_import_components-1.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : import components.</p>
 </div> 
 
