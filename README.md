@@ -5,7 +5,7 @@
 &nbsp;
 
 
-**Reference:**<br />
+<!-- **Reference:**<br />
 - YT "Tutorial NEXT JS 13 App Router"
    <p>https://www.youtube.com/watch?v=WyTIjLegirE</p>
    last 24.59s
@@ -13,7 +13,7 @@
 <br />
 
 - YT "Mudah Untuk Deploy NextJS Project di Vercel via GIT atau CLI | Dev Insight | MauCoding"
-   <p>https://www.youtube.com/watch?v=4FALuQOWqT8</p>
+   <p>https://www.youtube.com/watch?v=4FALuQOWqT8</p> -->
 
 &nbsp;
 
