@@ -1,0 +1,19 @@
+.DS_Store
+**/.DS_Store
+
+
+# - - - - - - - - - - - - - - - - - - - - - - 
+# bundle nextjs and vercel repository
+
+/latihan-1/.git/**
+/latihan-1/node_modules/**
+/latihan-1/.next/**
+/latihan-1/.pnp
+/latihan-1/.pnp.js
+/latihan-1/.yarn/install-state.
+/latihan-1/build
+/latihan-1/npm-debug.log*
+/latihan-1/yarn-debug.log*
+/latihan-1/yarn-error.log*
+/latihan-1/.vercel
+# - - - - - - - - - - - - - - - - - - - - - - 
