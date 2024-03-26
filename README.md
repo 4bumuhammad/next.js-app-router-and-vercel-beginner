@@ -17,7 +17,7 @@
 
 &nbsp;
 
-### &#x1F530; Begin [latihan-1]:<br />
+### &#x1F530; Begin [ latihan-1 ]:<br />
 
 <pre>
    ❯ node --version
@@ -102,3 +102,32 @@ Test jalankan pertama kali.
 &nbsp;
 
 **Struktur files:**<br />
+<pre>
+   ❯ tree -L 3 -a -I 'README.md|.DS_Store|node_modules|.next' ./latihan-1
+      ./latihan-1
+      ├── .eslintrc.json
+      ├── .git.tgz
+      ├── .gitignore
+      ├── app
+      │   ├── albums
+      │   │   └── page.tsx
+      │   ├── favicon.ico
+      │   ├── globals.css
+      │   ├── layout.tsx
+      │   ├── page.tsx
+      │   └── posts
+      │       ├── page.tsx
+      │       └── postPage.module.css
+      ├── next-env.d.ts
+      ├── next.config.mjs
+      ├── package-lock.json
+      ├── package.json
+      ├── postcss.config.js
+      ├── public
+      │   ├── next.svg
+      │   └── vercel.svg
+      ├── tailwind.config.ts
+      └── tsconfig.json
+
+      4 directories, 19 files
+</pre>
