@@ -137,32 +137,32 @@ Test jalankan pertama kali.
 ### Preview Stages latihan-1
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_001_first.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_001_first.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : first.</p>
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_002_hello.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_002_hello.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : hello.</p>
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_003_posts.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_003_posts.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : page posts.</p>
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_004_a_href.png" alt="ss_nextjs_latihan-1_004_a_href" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_004_a_href.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : link a href.</p>
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_005_a_href.png" alt="ss_nextjs_latihan-1_005_a_href" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_005_Link_href.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : Link href.</p>
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/sss_nextjs_latihan-1_006_css_global-1.png" alt="ss_nextjs_latihan-1_006_css_global-1" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/sss_nextjs_latihan-1_006_css_global-1.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : css global.</p>
 </div> 
 
