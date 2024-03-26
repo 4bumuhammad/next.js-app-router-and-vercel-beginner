@@ -8,6 +8,10 @@
 
 # &#x1F6A9; Next.JS app Router and vercel
 
+next.js : kerangka kerja (framework) untuk mengembangkan aplikasi web React. <br />
+vercel : platform cloud untuk deployment dan hosting aplikasi web, yang sering digunakan bersama dengan Next.js.<br />
+
+&nbsp; 
 
 <!-- **Reference:**<br />
 - YT "Tutorial NEXT JS 13 App Router"
