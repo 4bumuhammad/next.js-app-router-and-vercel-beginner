@@ -1,8 +1,12 @@
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/nextjs-icon-dark-s400.png" alt="nextjs-icon-dark-s400" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp; 
 
 # &#x1F6A9; Next.JS app Router and vercel
-
-
-&nbsp;
 
 
 <!-- **Reference:**<br />
