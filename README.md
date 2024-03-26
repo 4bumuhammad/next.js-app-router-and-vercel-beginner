@@ -208,6 +208,10 @@ Test jalankan pertama kali.
     <p align="center">nextjs : import components.</p>
 </div> 
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_013_components_cardList.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : import components cardList.</p>
+</div> 
 
 &nbsp;
 

@@ -1,11 +1,13 @@
-import ViewUserButton from "../components/ViewUserButton";
-// import styles from "./postPage.module.css"
+import CardList from "../components/CardList";
 
 const Posts = () => {
   return(
     <>
-      <div className="bg-[tomato]">POSTINGAN PAGE</div>
-      <ViewUserButton />
+      <h1 className="text-fuchsia-500">POSTINGAN PAGE</h1>
+      <CardList>
+        <p>Hello</p>
+        <i>Hi!</i>
+      </CardList>
     </>
   );
 };
