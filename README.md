@@ -138,7 +138,7 @@ Test jalankan pertama kali.
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_001_first.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
-    <p align="center">screenshot : nextjs.</p>
+    <p align="center">nextjs : first.</p>
 </div> 
 
 &nbsp;
