@@ -156,8 +156,15 @@ Test jalankan pertama kali.
     <p align="center">nextjs : link a href.</p>
 </div> 
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_005_a_href.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : Link href.</p>
+</div> 
 
-
+<div align="center">
+    <img src="./gambar-petunjuk/sss_nextjs_latihan-1_006_css_global-1.png" alt="ss_nextjs_latihan-1_006_css_global-1" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : css global.</p>
+</div> 
 
 
 &nbsp;
