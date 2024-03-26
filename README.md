@@ -17,7 +17,7 @@
 
 &nbsp;
 
-### &#x1F530; Begin:<br />
+### &#x1F530; Begin [latihan-1]:<br />
 
 <pre>
    ❯ node --version
