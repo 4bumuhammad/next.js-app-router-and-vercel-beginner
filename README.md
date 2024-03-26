@@ -13,16 +13,20 @@ vercel : platform cloud untuk deployment dan hosting aplikasi web, yang sering d
 
 &nbsp; 
 
-<!-- **Reference:**<br />
-- YT "Tutorial NEXT JS 13 App Router"
+**Reference:**<br />
+
+- jsonplaceholder.typicode<br />
+    <pre>https://jsonplaceholder.typicode.com/posts</pre>
+
+<!-- - YT "Tutorial NEXT JS 13 App Router"
    <p>https://www.youtube.com/watch?v=WyTIjLegirE</p>
    last 24.59s
 
 <br />
 
 - YT "Mudah Untuk Deploy NextJS Project di Vercel via GIT atau CLI | Dev Insight | MauCoding"
-   <p>https://www.youtube.com/watch?v=4FALuQOWqT8</p> -->
-
+   <p>https://www.youtube.com/watch?v=4FALuQOWqT8</p>
+ -->
 &nbsp;
 
 ### &#x1F530; Begin [ latihan-1 ]:<br />
