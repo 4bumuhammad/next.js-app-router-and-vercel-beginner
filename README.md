@@ -152,12 +152,12 @@ Test jalankan pertama kali.
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_004_a_href.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_004_a_href.png" alt="ss_nextjs_latihan-1_004_a_href" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : link a href.</p>
 </div> 
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_005_a_href.png" alt="ss_nextjs_latihan-1_001_first" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_005_a_href.png" alt="ss_nextjs_latihan-1_005_a_href" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : Link href.</p>
 </div> 
 
