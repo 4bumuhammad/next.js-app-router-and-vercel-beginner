@@ -194,7 +194,10 @@ Test jalankan pertama kali.
     <p align="center">nextjs : error component.</p>
 </div> 
 
-
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_011_use_client_components.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs - solved : use client component.</p>
+</div> 
 
 
 &nbsp;
