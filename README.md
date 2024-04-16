@@ -20,7 +20,6 @@ vercel : platform cloud untuk deployment dan hosting aplikasi web, yang sering d
 
 <!-- - YT "Tutorial NEXT JS 13 App Router"
    <p>https://www.youtube.com/watch?v=WyTIjLegirE</p>
-   last 37.11s
 
 <br />
 
