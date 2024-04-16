@@ -313,6 +313,28 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 
 &nbsp;
 
+## CACHING & PRODUCTION
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 ---
