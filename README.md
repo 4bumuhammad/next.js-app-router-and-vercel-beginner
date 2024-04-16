@@ -413,6 +413,9 @@ Solution so that when reloading the page it will also request again.
 
 &nbsp;
 
+Hasil pada page `posts` sekarang akan selalu melakukan request ulang setiap ada reload page. Hal ini ditunjukkan dengan adanya perubahan LocalTime yang ditampilkan setiap kali ada reload page.
+
+
 &nbsp;
 
 &nbsp;
