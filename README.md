@@ -278,7 +278,7 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 &nbsp;
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_017_typescript_interface.png" alt="ss_nextjs_latihan-1_016_fetch_data_json" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_017_typescript_interface.png" alt="ss_nextjs_latihan-1_017_typescript_interface" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : Typescript interface.</p>
 </div> 
 
@@ -287,6 +287,18 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_018_map.png" alt="ss_nextjs_latihan-1_018_map" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : map.</p>
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_019_map_post.png" alt="ss_nextjs_latihan-1_019_map_post" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_020_viewuserbuttonprops.png" alt="ss_nextjs_latihan-1_020_viewuserbuttonprops" style="display: block; margin: 0 auto;">
 </div> 
 
 &nbsp;
