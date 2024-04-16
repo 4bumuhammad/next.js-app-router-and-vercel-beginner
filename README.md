@@ -272,7 +272,7 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_016_fetch_data_json.png" alt="ss_nextjs_latihan-1_016_fetch_data_json" style="display: block; margin: 0 auto;">
-    <p align="center">nextjs : data.</p>
+    <p align="center">nextjs : fetch.</p>
 </div> 
 
 &nbsp;
