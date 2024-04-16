@@ -367,6 +367,13 @@ Start :
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_022_toLocaleTimeString.png" alt="ss_nextjs_latihan-1_022_toLocaleTimeString" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : new Date().toLocaleTimeString().</p>
+</div> 
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
