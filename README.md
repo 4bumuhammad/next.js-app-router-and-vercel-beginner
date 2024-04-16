@@ -374,6 +374,8 @@ Start :
 
 &nbsp;
 
+`{cache: "no-store"}` artinya, setiap ada reload maka akan dilakukan request ulang.
+
 &nbsp;
 
 &nbsp;
