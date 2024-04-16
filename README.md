@@ -317,7 +317,53 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 
 &nbsp;
 
+Build to production : 
+<pre>
+    ❯ npm run build
+
+
+        > latihan-1@0.1.0 build
+        > next build
+
+        ▲ Next.js 14.1.4
+
+        Creating an optimized production build ...
+        ✓ Compiled successfully
+        ✓ Linting and checking validity of types    
+        ✓ Collecting page data    
+        ✓ Generating static pages (7/7) 
+        ✓ Collecting build traces    
+        ✓ Finalizing page optimization    
+
+        Route (app)                              Size     First Load JS
+        ┌ ○ /                                    6.95 kB        91.2 kB
+        ├ ○ /_not-found                          885 B          85.2 kB
+        ├ ○ /albums                              136 B          84.4 kB
+        └ ○ /posts                               353 B          84.6 kB
+        + First Load JS shared by all            84.3 kB
+        ├ chunks/69-6881ef9c69666866.js        29.1 kB
+        ├ chunks/fd9d1056-d03af0e963d7a2f3.js  53.4 kB
+        └ other shared chunks (total)          1.86 kB
+
+
+        ○  (Static)  prerendered as static content
+
+</pre>
+
 &nbsp;
+
+Start : 
+<pre>
+    ❯ npm run start
+
+        > latihan-1@0.1.0 start
+        > next start
+
+        ▲ Next.js 14.1.4
+        - Local:        http://localhost:3000
+
+        ✓ Ready in 192ms
+</pre>
 
 &nbsp;
 
