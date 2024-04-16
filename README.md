@@ -415,6 +415,12 @@ Solution so that when reloading the page it will also request again.
 
 Hasil pada page `posts` sekarang akan selalu melakukan request ulang setiap ada reload page. Hal ini ditunjukkan dengan adanya perubahan LocalTime yang ditampilkan setiap kali ada reload page.
 
+&nbsp;
+
+Jika ingin dilakukan request ulang secara jeda waktu ditentukan dapat menggunakan code berikut : 
+<pre>
+    const response = await fetch(base_url,{next: {revalidate:10}})
+</pre>
 
 &nbsp;
 
