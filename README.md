@@ -162,65 +162,99 @@ Test jalankan pertama kali.
     <p align="center">nextjs : first.</p>
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_002_hello.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : hello.</p>
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_003_posts.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : page posts.</p>
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_004_a_href.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : link a href.</p>
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_005_Link_href.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : Link href.</p>
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_006_css_global-1.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : css global.</p>
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_007_css_global-2.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : css global.</p>
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_008_css_private.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : css private.</p>
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_009_tailwind.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : tailwind.</p>
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_010_error_component.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : error component.</p>
 </div> 
+
+&nbsp;
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_011_use_client_components.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs - solved : use client component.</p>
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_012_import_components-1.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : import components.</p>
 </div> 
 
+&nbsp;
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_013_components_cardList-2.png" alt="ss_nextjs_latihan-1" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : import components cardList.</p>
 </div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_014_components_cardList-2_classname.png" alt="ss_nextjs_latihan-1_014_components_cardList-2_classname" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : import components cardList.</p>
+</div> 
+
+
+&nbsp;
 
 &nbsp;
 
