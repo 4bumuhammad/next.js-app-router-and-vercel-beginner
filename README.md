@@ -374,6 +374,18 @@ Start :
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_023_shortkey.png" alt="ss_nextjs_latihan-1_023_shortkey" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : new Date().toLocaleTimeString().</p>
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_024_cache.png" alt="ss_nextjs_latihan-1_024_cache" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : new Date().toLocaleTimeString().</p>
+</div> 
+
 `{cache: "no-store"}` artinya, setiap ada reload maka akan dilakukan request ulang.
 
 &nbsp;

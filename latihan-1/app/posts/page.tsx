@@ -12,7 +12,7 @@ interface Iposts{
 
 const Posts = async() => {
   const response = await fetch(base_url,{cache: "no-store"})
-  const posts: Iposts[] = await response.json()
+  const posts: Iposts[] = await response.json();
   return(
     <>
       <p>{new Date().toLocaleTimeString()}</p>
