@@ -20,7 +20,7 @@ vercel : platform cloud untuk deployment dan hosting aplikasi web, yang sering d
 
 <!-- - YT "Tutorial NEXT JS 13 App Router"
    <p>https://www.youtube.com/watch?v=WyTIjLegirE</p>
-   last 24.59s
+   last 37.11s
 
 <br />
 
@@ -30,6 +30,15 @@ vercel : platform cloud untuk deployment dan hosting aplikasi web, yang sering d
 &nbsp;
 
 ### &#x1F530; Begin [ latihan-1 ]:<br />
+
+Switch node version:
+<pre>
+    ❯ nvm use 18.17.0
+
+        Now using node v18.17.0 (npm v9.6.7)
+</pre>
+
+&nbsp;
 
 <pre>
    ❯ node --version
