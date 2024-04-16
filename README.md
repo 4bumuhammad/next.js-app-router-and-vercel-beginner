@@ -299,6 +299,7 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_020_viewuserbuttonprops.png" alt="ss_nextjs_latihan-1_020_viewuserbuttonprops" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : Component ViewUserButton with props.</p>
 </div> 
 
 &nbsp;
