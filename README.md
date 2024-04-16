@@ -250,7 +250,7 @@ Test jalankan pertama kali.
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_014_components_cardList-2_classname.png" alt="ss_nextjs_latihan-1_014_components_cardList-2_classname" style="display: block; margin: 0 auto;">
-    <p align="center">nextjs : import components cardList.</p>
+    <p align="center">nextjs : import components cardList className.</p>
 </div> 
 
 
