@@ -263,7 +263,7 @@ Test jalankan pertama kali.
 
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_015_sample_data_json.png" alt="ss_nextjs_latihan-1_015_sample_data_json" style="display: block; margin: 0 auto;">
-    <p align="center">nextjs : `https://jsonplaceholder.typicode.com/posts`.</p>
+    <p align="center">nextjs : "https://jsonplaceholder.typicode.com/posts".</p>
 </div> 
 
 &nbsp;
