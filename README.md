@@ -399,6 +399,18 @@ Solution so that when reloading the page it will also request again.
 
 &nbsp;
 
+<pre>
+    ❯ npm run start
+
+        > latihan-1@0.1.0 start
+        > next start
+
+        ▲ Next.js 14.1.4
+        - Local:        http://localhost:3000
+
+        ✓ Ready in 273ms
+</pre>
+
 &nbsp;
 
 &nbsp;
