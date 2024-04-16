@@ -282,6 +282,12 @@ Data : `https://jsonplaceholder.typicode.com/posts`
     <p align="center">nextjs : Typescript interface.</p>
 </div> 
 
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_018_map.png" alt="ss_nextjs_latihan-1_018_map" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : map.</p>
+</div> 
 
 &nbsp;
 
