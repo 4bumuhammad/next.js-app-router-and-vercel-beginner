@@ -304,6 +304,13 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_021_handling_error.png" alt="ss_nextjs_latihan-1_021_handling_error" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : Handling error Each child in a list should have a unique "key" prop.</p>
+</div> 
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;

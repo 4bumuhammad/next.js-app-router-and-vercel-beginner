@@ -20,7 +20,7 @@ const Posts = async() => {
 
         return(
 
-          <CardList>
+          <CardList key={post.id}>
             <p>userId : {post.userId}</p>
             <p>id : {post.id}</p>
             <p>title : {post.title}</p>
