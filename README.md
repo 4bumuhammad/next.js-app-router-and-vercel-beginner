@@ -253,6 +253,11 @@ Test jalankan pertama kali.
     <p align="center">nextjs : import components cardList className.</p>
 </div> 
 
+&nbsp;
+
+&nbsp;
+
+## DATA FETCHING
 
 &nbsp;
 
