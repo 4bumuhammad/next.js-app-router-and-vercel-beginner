@@ -374,6 +374,8 @@ Start :
 
 &nbsp;
 
+Solution so that when reloading the page it will also request again.
+
 <div align="center">
     <img src="./gambar-petunjuk/ss_nextjs_latihan-1_023_shortkey.png" alt="ss_nextjs_latihan-1_023_shortkey" style="display: block; margin: 0 auto;">
     <p align="center">nextjs : new Date().toLocaleTimeString().</p>
