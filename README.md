@@ -392,6 +392,11 @@ Solution so that when reloading the page it will also request again.
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_025_build.png" alt="ss_nextjs_latihan-1_025_build" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : npm run build.</p>
+</div> 
+
 &nbsp;
 
 &nbsp;
