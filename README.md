@@ -277,6 +277,14 @@ Data : `https://jsonplaceholder.typicode.com/posts`
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_nextjs_latihan-1_017_typescript_interface.png" alt="ss_nextjs_latihan-1_016_fetch_data_json" style="display: block; margin: 0 auto;">
+    <p align="center">nextjs : Typescript interface.</p>
+</div> 
+
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
