@@ -37,6 +37,67 @@ Switch node version:
         Now using node v18.17.0 (npm v9.6.7)
 </pre>
 
+<br />
+
+CATATAN updated 2026-10-27 → untuk dapat menggunakan node.js version terbaru (merupakan rilis Current pada Oktober 2026). <br />
+
+```bash
+❯ nvm list
+           v14.17.3
+    ->     v16.14.2
+           v18.17.0
+           v20.13.1
+           v24.19.0
+    default -> 16.14.2 (-> v16.14.2)
+    iojs -> N/A (default)
+    unstable -> N/A (default)
+    node -> stable (-> v24.19.0) (default)
+    stable -> 24.19 (-> v24.19.0) (default)
+    lts/* -> lts/krypton (-> v24.19.0)
+    lts/argon -> v4.9.1 (-> N/A)
+    lts/boron -> v6.17.1 (-> N/A)
+    lts/carbon -> v8.17.0 (-> N/A)
+    lts/dubnium -> v10.24.1 (-> N/A)
+    lts/erbium -> v12.22.12 (-> N/A)
+    lts/fermium -> v14.21.3 (-> N/A)
+    lts/gallium -> v16.20.2 (-> N/A)
+    lts/hydrogen -> v18.20.8 (-> N/A)
+    lts/iron -> v20.20.2 (-> N/A)
+    lts/jod -> v22.23.2 (-> N/A)
+    lts/krypton -> v24.19.0
+    
+❯ node --version
+    v16.14.2
+    
+#- Cek Ketersediaan Versi Remote (Opsional)
+❯ nvm ls-remote 26
+            v26.0.0
+            v26.1.0
+            v26.2.0
+            v26.3.0
+            v26.3.1
+            v26.4.0
+            v26.5.0
+            v26.5.1
+            v26.6.0
+            v26.7.0
+            v26.8.0
+            v26.8.1
+            v26.8.2
+            v26.9.0
+           v26.10.0
+           v26.11.0
+           v26.11.1
+           v26.12.0
+           v26.12.1
+       
+#- Instal Node.js v26       
+❯ nvm install v26.12.1
+
+❯ node --version
+    v26.12.1
+```
+
 &nbsp;
 
 <pre>
